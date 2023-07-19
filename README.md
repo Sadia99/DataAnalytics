@@ -1,3 +1,3 @@
 # DataAnalytics
 
-This file includes visualizations and dashboard relating to a company data.
+This file includes visualizations and a dashboard relating to car sale company
