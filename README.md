@@ -19,7 +19,11 @@ This file presents the focal point of our car sales analysis, featuring data for
 
 This file contains data extracted from both Tesla and GameStop sources. The data retrieval process involved calling APIs to obtain a JSON file and utilizing web scraping techniques with the Beautiful Soup library to parse webpage HTML tags. The extracted data was converted into pandas data frames for further analysis. The repository includes code and visualizations that uncover valuable insights from this combined dataset.
 
-### 4. `Other DataSets/`
+### 4. `Car_Sales_Dashboard.pdf`
+
+This PDF file showcases a comprehensive Car Sales Dashboard, created as part of the "Data Visualization with Cognos" course from the IBM Data Analyst Professional Course. The dashboard presents insightful visualizations pertaining to car data, including information on car models, sales per area, sales per model, sales per company, and more. Alongside the visualizations, we have incorporated key performance indicators (KPIs) to provide a holistic view of the car sales performance. Explore the dashboard to gain valuable insights and see how data visualization techniques in Cognos can effectively communicate complex information.
+
+### 5. `Other DataSets/`
 
 This folder contains additional datasets used for practice and exploration during the "IBM Data Analyst" Professional Course. The datasets cover diverse domains, providing opportunities to apply various data analysis techniques and gain valuable insights.
 
